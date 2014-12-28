@@ -1,0 +1,6 @@
+/Users/veesyn/work/trainings/eclipse-workspace/bookshelf-inventory/bookshelf-inventory-api/src/main/java/com/packtpub/felix/bookshelf/inventory/api/exception/BookAlreadyExistsException.java
+/Users/veesyn/work/trainings/eclipse-workspace/bookshelf-inventory/bookshelf-inventory-api/src/main/java/com/packtpub/felix/bookshelf/inventory/api/Book.java
+/Users/veesyn/work/trainings/eclipse-workspace/bookshelf-inventory/bookshelf-inventory-api/src/main/java/com/packtpub/felix/bookshelf/inventory/api/MutableBook.java
+/Users/veesyn/work/trainings/eclipse-workspace/bookshelf-inventory/bookshelf-inventory-api/src/main/java/com/packtpub/felix/bookshelf/inventory/api/exception/InvalidBookException.java
+/Users/veesyn/work/trainings/eclipse-workspace/bookshelf-inventory/bookshelf-inventory-api/src/main/java/com/packtpub/felix/bookshelf/inventory/api/BookInventory.java
+/Users/veesyn/work/trainings/eclipse-workspace/bookshelf-inventory/bookshelf-inventory-api/src/main/java/com/packtpub/felix/bookshelf/inventory/api/exception/BookNotFoundException.java
